@@ -1,7 +1,7 @@
 import torch
 from tqdm import tqdm
 from collections import OrderedDict
-from utils import AverageMeter, iou_score
+from ml_deploy.utils import AverageMeter, iou_score
 
 
 def validate(deep_sup, val_loader, model, criterion):

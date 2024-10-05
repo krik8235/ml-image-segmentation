@@ -1,2 +1,5 @@
 /__pycache__
 /dataset
+/.venv
+/ml_deploy/__pycache__
+.DS_Store
