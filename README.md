@@ -28,17 +28,17 @@ $ pip install -r requirements.txt
 ```
 
 * Folder structure
-- .venv
-- dataset
-- ml_deploy
-- output
+  - .venv
+  - dataset
+  - ml_deploy
+  - output
 
 
 
 ## Takeaways
 After 100 epochs of training, 
-![Actual image]('https://github.com/krik8235/ml-image-segmentation/blob/main/output/test-images/act.png')
-![Segmentation image]('https://github.com/krik8235/ml-image-segmentation/blob/main/output/test-images/seg.png')
+![Actual image]('https://github.com/krik8235/ml-image-segmentation/blob/main/output/test-images/act.png?raw=true')
+![Segmentation image]('https://github.com/krik8235/ml-image-segmentation/blob/main/output/test-images/seg.png?raw=true')
 
 
 - Polyp Segmentation Insights
